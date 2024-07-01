@@ -1,4 +1,4 @@
-# Serv00 - 控制面板自动登录脚本
+# ct8 - 控制面板自动登录脚本
 
 ## 使用方法
 
@@ -10,9 +10,9 @@
 
 ``` json
 [  
-  { "username": "qishihuang", "password": "zhanghao", "panelnum": "3" },  
-  { "username": "zhaogao", "password": "daqinzhonggong", "panelnum": "1" },  
-  { "username": "heiheihei", "password": "shaibopengke", "panelnum": "2" }  
+  { "username": "qishihuang", "password": "zhanghao"},  
+  { "username": "zhaogao", "password": "daqinzhonggong"},  
+  { "username": "heiheihei", "password": "shaibopengke" }  
 ]
 ```
 
